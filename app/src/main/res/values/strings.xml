@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Vacation Guru</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_api_key">AIzaSyDB2nQohFiBVvCkxcgzLJknjG46hT5aKoQ</string>
+    <string name="title_activity_place_picker">PlacePicker</string>
+    <string name="title_activity_nearby">Nearby</string>
+    <string name="title_activity_places_map">Map</string>
+    <string name="title_activity_single_place">SinglePlaceActivity</string>
+    <string name="title_activity_find_attr">FindAttr</string>
+    <string name="title_activity_show_place">ShowPlace</string>
+    <string name="title_activity_find_nearby">FindNearby</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="title_activity_search_box">SearchBox</string>
+    <string name="title_activity_predefined_search">PredefinedSearch</string>
+    <string name="title_activity_choose_type">ChooseType</string>
+</resources>
